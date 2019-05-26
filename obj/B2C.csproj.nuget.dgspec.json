@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rawpioloco/Documentos/Respos/B2C-netcore/B2C.csproj": {}
+  },
+  "projects": {
+    "/home/rawpioloco/Documentos/Respos/B2C-netcore/B2C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rawpioloco/Documentos/Respos/B2C-netcore/B2C.csproj",
+        "projectName": "B2C",
+        "projectPath": "/home/rawpioloco/Documentos/Respos/B2C-netcore/B2C.csproj",
+        "packagesPath": "/home/rawpioloco/.nuget/packages/",
+        "outputPath": "/home/rawpioloco/Documentos/Respos/B2C-netcore/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/rawpioloco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

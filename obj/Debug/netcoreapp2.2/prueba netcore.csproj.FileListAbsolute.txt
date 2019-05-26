@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\B2C\bin\Debug\netcoreapp2.2\B2C.deps.json
+C:\Users\User\Documents\Visual Studio 2013\Projects\B2C\bin\Debug\netcoreapp2.2\B2C.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2013\Projects\B2C\bin\Debug\netcoreapp2.2\B2C.runtimeconfig.dev.json
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\bin\Debug\netcoreapp2.2\B2C.dll
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\bin\Debug\netcoreapp2.2\B2C.pdb
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.csprojAssemblyReference.cache
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.RazorAssemblyInfo.cache
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.RazorAssemblyInfo.cs
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.AssemblyInfoInputs.cache
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.AssemblyInfo.cs
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.RazorTargetAssemblyInfo.cache
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.dll
+c:\Users\User\Documents\Visual Studio 2013\Projects\B2C\obj\Debug\netcoreapp2.2\B2C.pdb
